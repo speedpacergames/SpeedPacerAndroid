@@ -4,7 +4,8 @@
 "com.speedpacergames.car.driving.simulator.club":"1.1",
 "com.speedpacergames.american.euro.truck.simulator":"1.1",
 "com.speedpacergames.mega.ramp.car.racing.stunts":"1.1",
-"com.speedpacergames.crashing.cars.crash.race.compilation":"1.1"
+"com.speedpacergames.crashing.cars.crash.race.compilation":"1.1",
+"com.speedpacergames.bmx.bicycle.stunts.bike.games.racing":"1.0"
 
 
 
