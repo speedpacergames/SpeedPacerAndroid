@@ -5,7 +5,8 @@
 "com.speedpacergames.american.euro.truck.simulator":"1.3",
 "com.speedpacergames.mega.ramp.car.racing.stunts":"1.1",
 "com.speedpacergames.crashing.cars.crash.race.compilation":"1.1",
-"com.speedpacergames.bmx.bicycle.stunts.bike.games.racing":"1.1"
+"com.speedpacergames.bmx.bicycle.stunts.bike.games.racing":"1.1",
+"com.speedpacergames.offroad.bus.simulator.snow.bus.uphill.mountain.driving.game.parking":"1.1"
 
 
 
