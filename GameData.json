@@ -1,0 +1,16 @@
+[
+  {
+    "m_Name": "Scorpion Robot Car Transform",
+    "m_Descirption": "a",
+    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.extremeboltfightinggames.scropion.robot.transform.helicopter.robotwars.carshooting",
+    "m_IOSUrl": "",
+    "m_PackageID": "com.extremeboltfightinggames.scropion.robot.transform.helicopter.robotwars.carshooting",
+    "m_ImageUrls": [
+      "https://github.com/vividgames6/ExtremeJackals/blob/main/Icon02.jpg?raw=1"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 100
+    },
+    "m_ColorTheme": "#8f3002"
+  }
+]
