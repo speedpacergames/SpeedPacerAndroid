@@ -6,7 +6,7 @@
 "com.speedpacergames.mega.ramp.car.racing.stunts":"1.1",
 "com.speedpacergames.crashing.cars.crash.race.compilation":"1.1",
 "com.speedpacergames.bmx.bicycle.stunts.bike.games.racing":"1.1",
-"com.speedpacergames.offroad.bus.simulator.snow.bus.uphill.mountain.driving.game.parking":"1.3",
+"com.speedpacergames.offroad.bus.simulator.snow.bus.uphill.mountain.driving.game.parking":"1.2",
 "com.speedpacergames.formula.car.games.racing.simulator.f1.topspeed.clash":"1.1",
 "com.speedpacergames.flightpilot.airplane.game.plane.simulator":"1.1"
 
