@@ -12,5 +12,19 @@
       "m_ChanceWeight": 100
     },
     "m_ColorTheme": "#8f3002"
+  },
+  {
+    "m_Name": "Flight Simulator Airplane Game",
+    "m_Descirption": "a",
+    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.speedpacergames.flightpilot.airplane.game.plane.simulator",
+    "m_IOSUrl": "",
+    "m_PackageID": "com.speedpacergames.flightpilot.airplane.game.plane.simulator",
+    "m_ImageUrls": [
+      "https://github.com/speedpacergames/SpeedPacerAndroid/blob/main/Icon.jpg?raw=1"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 100
+    },
+    "m_ColorTheme": "#8f3002"
   }
 ]
