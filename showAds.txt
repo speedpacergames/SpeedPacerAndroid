@@ -13,7 +13,7 @@
 "com.speedpacergames.elite.mx.motos.grau.motovlog.mxbikes.motorcycle.stunt.simulator":"1.5",
 "com.speedpacergames.army.cargo.vehicle.transporter.truck.simulator.army.car.games":"1.2",
 "com.speedpacergames.american.bus.euro.coach.citybus.simulator.parking.driving.busgames":"1.1",
-"com.speedpacergames.offroad.jeep.driving.simulator.uphill.mountains.parking.games":"1.2"
+"com.speedpacergames.offroad.jeep.driving.simulator.uphill.mountains.parking.games":"1.3"
 
 
 
