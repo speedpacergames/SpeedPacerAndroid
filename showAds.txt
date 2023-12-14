@@ -3,7 +3,7 @@
 "com.spg,police.sim.cop.car.chase.simulator.policesim2023":"1.0",
 "com.speedpacergames.car.driving.simulator.club":"1.5",
 "com.speedpacergames.american.euro.truck.simulator":"1.7",
-"com.speedpacergames.mega.ramp.car.racing.stunts":"1.4",
+"com.speedpacergames.mega.ramp.car.racing.stunts":"1.5",
 "com.speedpacergames.crashing.cars.crash.race.compilation":"1.6",
 "com.speedpacergames.bmx.bicycle.stunts.bike.games.racing":"1.2",
 "com.speedpacergames.offroad.bus.simulator.snow.bus.uphill.mountain.driving.game.parking":"1.6",
