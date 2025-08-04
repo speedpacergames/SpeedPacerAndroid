@@ -16,7 +16,7 @@
 "com.speedpacergames.offroad.Prado.driving.parking.cargames":"1.6",
 "com.speedpacergames.real.car.driving.city.cargame.race3d":"1.3",
 "com.speedpacergames.snow.uphill.offroad.train.simulator.games":"1.2",
-"com.speedpacergames.mini.six.legs.challenge.game":"1.5"
+"com.speedpacergames.mini.six.legs.challenge.game":"1.4"
 
 
 
