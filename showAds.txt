@@ -18,7 +18,7 @@
 "com.speedpacergames.snow.uphill.offroad.train.simulator.games":"1.2",
 "com.speedpacergames.mini.six.legs.challenge.game":"1.6",
 "com.speedpacergames.sneak.steal.escape.run":"1.0"
-
+"com.speedpacergames.annoying.brainrot.punch.game":"1.0"
 
 
 
