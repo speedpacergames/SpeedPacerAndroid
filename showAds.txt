@@ -13,7 +13,7 @@
 "com.speedpacergames.army.cargo.vehicle.transporter.truck.simulator.army.car.games":"1.5",
 "com.speedpacergames.american.bus.euro.coach.citybus.simulator.parking.driving.busgames":"1.3",
 "com.speedpacergames.offroad.jeep.driving.simulator.uphill.mountains.parking.games":"1.8",
-"com.speedpacergames.offroad.Prado.driving.parking.cargames":"1.8",
+"com.speedpacergames.offroad.Prado.driving.parking.cargames":"1.9",
 "com.speedpacergames.real.car.driving.city.cargame.race3d":"1.3",
 "com.speedpacergames.snow.uphill.offroad.train.simulator.games":"1.2",
 "com.speedpacergames.mini.six.legs.challenge.game":"1.6",
