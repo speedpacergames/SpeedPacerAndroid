@@ -5,7 +5,7 @@
 "com.speedpacergames.american.euro.truck.simulator":"1.8",
 "com.speedpacergames.crashing.cars.crash.race.compilation":"1.7",
 "com.speedpacergames.bmx.bicycle.stunts.bike.games.racing":"1.6",
-"com.speedpacergames.offroad.bus.simulator.snow.bus.uphill.mountain.driving.game.parking":"2.4",
+"com.speedpacergames.offroad.bus.simulator.snow.bus.uphill.mountain.driving.game.parking":"2.3",
 "com.speedpacergames.formula.car.games.racing.simulator.f1.topspeed.clash":"1.3",
 "com.speedpacergames.flightpilot.airplane.game.plane.simulator":"1.2",
 "com.speedpacergames.wolf.simulator.animal.life":"1.8",
